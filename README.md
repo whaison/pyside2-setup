@@ -18,7 +18,11 @@
 - 著作権の譲渡を必要とせずに寄稿します。
 
 
-- PySide 2はQt5をサポートしています。ビルドについては、[依存関係の取得]（https://github.com/PySide/pyside2/wiki/Dependencies）を参照してください。次に、 `git clone --recursive https：// github.com / PySide / pyside2-setup.git`を実行してソースをダウンロードします。
+- PySide 2はQt5をサポートしています。ビルドについては、[依存関係の取得]（https://github.com/PySide/pyside2/wiki/Dependencies）を参照してください。次に、
+```
+git clone --recursive https://github.com/PySide/pyside2-setup.git
+```
+を実行してソースをダウンロードします。
 
 ###ビルド
 
