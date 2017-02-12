@@ -5,7 +5,7 @@
 | [！[AppVeyor]（https://img.shields.io/appveyor/ci/techtonik/pyside2-setup.svg）]（https://ci.appveyor.com/project/techtonik/pyside2-setup）| [！[Travis CI]（https://img.shields.io/travis/PySide/pyside2-setup.svg）]（https://travis-ci.org/PySide/pyside2-setup）|
 
 
-＃＃＃前書き
+### 前書き
 
 
 
